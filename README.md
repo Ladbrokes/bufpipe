@@ -1,3 +1,7 @@
+[![Go Report Card](https://goreportcard.com/badge/Ladbrokes/bufpipe)](https://goreportcard.com/report/Ladbrokes/bufpipe)
+[![Build Status](https://travis-ci.org/Ladbrokes/bufpipe.svg?branch=master)](https://travis-ci.org/Ladbrokes/bufpipe)
+[![Build Status](https://drone.io/github.com/Ladbrokes/bufpipe/status.png)](https://drone.io/github.com/Ladbrokes/bufpipe/latest)
+[![Coverage Status](https://coveralls.io/repos/github/Ladbrokes/bufpipe/badge.svg?branch=master)](https://coveralls.io/github/Ladbrokes/bufpipe?branch=master)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Ladbrokes/bufpipe/master/LICENSE.md)
 
 # bufpipe
